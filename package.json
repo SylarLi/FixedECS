@@ -1,0 +1,13 @@
+{
+  "name": "com.fixed.ecs.2d",
+  "displayName": "Fixed ECS 2D",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Fixed ECS 2D.",
+  "keywords": [],
+  "category": "",
+  "dependencies": {
+    "com.fixed.numeric": "https://github.com/SylarLi/FixedNumeric.git",
+    "com.unity.entities": "1.3.9"
+  }
+}
